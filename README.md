@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Felipe Muniz! 👋
+
+I am an open source developer proficient in C#/C++ and Lua. Through my career I've created some game engines, games, websites, mobile applications and development tools. Today I am mostly focusing on developing KingNetwork socket library, things around it and some other private game projects using that.
+
+KingNetwork:
+
+- [KingNetwork](https://github.com/MUN1Z/KingNetwork) - Is an open source library to facilitate the creation and communication of clients and servers via TCP, UDP, WebSocket and RUDP sockets.
+
+[![MUN1Z github stats](https://github-readme-stats.vercel.app/api?username=mun1z&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mun1z&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MUN1Z/MUN1Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
