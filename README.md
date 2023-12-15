@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe Muniz! 👋
 
-I am an open source developer proficient in C#/C++ and Lua. Through my career I've created some game engines, games, websites, mobile applications and development tools. Today I am mostly focusing on developing KingNetwork socket library, things around it and some other private game projects using that.
+I am an open source developer proficient in C#/C++ and Lua. Through my career I've created some games, websites, mobile applications, embedded applications, desktop applications and development tools. Today I am mostly focusing on developing KingNetwork socket library, things around it and some other private game projects using that.
 
 KingNetwork:
 
