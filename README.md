@@ -7,7 +7,7 @@ KingNetwork:
 - [KingNetwork](https://github.com/MUN1Z/KingNetwork) - Is an open source library to facilitate the creation and communication of clients and servers via TCP, UDP, WebSocket and RUDP sockets.
 
 OpenCoreMMO:
-- [OpenCoreMMO]([https://github.com/MUN1Z/KingNetwork](https://github.com/OpenCoreMMO/OpenCoreMMO)) - Modern MMORPG server emulator written in C#.
+- [OpenCoreMMO](https://github.com/OpenCoreMMO/OpenCoreMMO) - Modern MMORPG server emulator written in C#.
 
 [![MUN1Z github stats](https://github-readme-stats.vercel.app/api?username=mun1z&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
